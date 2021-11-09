@@ -14,6 +14,6 @@ public class helloWorldControllerImpl implements helloWorldController {
     @ResponseStatus(HttpStatus.OK)
     public String helloWorld() {
 
-        return "hello world";
+        return "hello people";
     }
 }
